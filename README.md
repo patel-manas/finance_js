@@ -7,7 +7,7 @@ This library provides a collection of utility functions for various financial ca
 You can install this library via npm:
 
 ```bash
-npm install financial-utils
+npm i personal-finance-calculator
 ```
 
 ## Usage

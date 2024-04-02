@@ -2,7 +2,7 @@ import {
     calculateDTI, debtSnowball, debtAvalanche, calculateEMI, lumpSumReturns , lumpSumReturnsWithInflation, sipReturns, sipReturnsWithInflation, 
     futureValueWithoutInflation, futureValueWithInflation,
     presentValueWithoutInflation, presentValueWithInflation, retirementSavingsGoal, safeWithdrawalRate 
-} from '../financialUtils';
+} from '..';
 
 describe('calculateDTI', () => {
   it('calculates DTI correctly', () => {

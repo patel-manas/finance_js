@@ -14,7 +14,7 @@ npm i personal-finance-calculator
 
 ```javascript
 // Import individual functions as needed
-const { calculateDTI, debtSnowball, debtAvalanche, sipReturns, lumpSumReturns } = require('financial-utils');
+const { calculateDTI, debtSnowball, debtAvalanche, sipReturns, lumpSumReturns } = require('personal-finance-calculator');
 
 // Calculate Debt-to-Income (DTI) ratio
 const dtiRatio = calculateDTI(1500, 5000);

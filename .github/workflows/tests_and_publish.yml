@@ -31,4 +31,4 @@ jobs:
         if: success() && github.ref == 'refs/heads/main'
         run: |
           npm config set //registry.npmjs.org/:_authToken=${{ secrets.NPM_AUTH_TOKEN }}
-          npm publish --access=public
+          npm run release

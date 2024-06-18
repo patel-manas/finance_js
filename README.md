@@ -49,7 +49,7 @@ console.log("Total lump sum returns after 5 years:", lumpSumReturnsAmount);
 
 ## Documentation
 
-- [API Reference](#) - Detailed documentation for all available functions.
+- [API Reference](https://github.com/patel-manas/finance_js) - Detailed documentation for all available functions.
 
 ## Contributing
 
